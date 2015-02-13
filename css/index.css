@@ -1,0 +1,19 @@
+.scrollable {
+    white-space: nowrap;
+    width: 97%;
+}
+
+.condensed-scrollbar {
+    width: 95%;
+}
+
+.control-container div {
+    display: inline-block;
+    overflow-x: hidden;
+    white-space: nowrap;
+}
+
+.scrollbtn {
+    border-radius: 150px;
+    margin-top: 6px;
+}
